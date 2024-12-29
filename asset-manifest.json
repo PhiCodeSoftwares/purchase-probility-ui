@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/purchase-probility-ui/static/css/main.85506974.css",
+    "main.js": "/purchase-probility-ui/static/js/main.0e920eb2.js",
+    "static/js/488.45e828e1.chunk.js": "/purchase-probility-ui/static/js/488.45e828e1.chunk.js",
+    "static/media/logo.png": "/purchase-probility-ui/static/media/logo.ec27cfb56224a89fc493.png",
+    "index.html": "/purchase-probility-ui/index.html",
+    "main.85506974.css.map": "/purchase-probility-ui/static/css/main.85506974.css.map",
+    "main.0e920eb2.js.map": "/purchase-probility-ui/static/js/main.0e920eb2.js.map",
+    "488.45e828e1.chunk.js.map": "/purchase-probility-ui/static/js/488.45e828e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85506974.css",
+    "static/js/main.0e920eb2.js"
+  ]
+}
